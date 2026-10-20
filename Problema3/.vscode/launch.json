@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "main",
+      "mainClass": "main",
+      "buildTarget": "file:/C:/Users/DIEGO/Documents/ExamenSegundoParcial/Problema3/.scala-build/?id=Problema3_41e103cfb2",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+2026.10.20 08:24:08 INFO  Started: Metals version 1.6.9 in folders 'C:\Users\DIEGO\Documents\ExamenSegundoParcial\Problema3' for client Visual Studio Code 1.142.0.
+2026.10.20 08:24:08 INFO  Memory monitor started
+2026.10.20 08:24:08 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.20 08:24:09 INFO  no build target found for C:\Users\DIEGO\Documents\ExamenSegundoParcial\Problema3\main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:24:12 WARN  Could not find semantic tokens for: file:///C:/Users/DIEGO/Documents/ExamenSegundoParcial/Problema3/main.scala
+2026.10.20 08:24:13 INFO  Running List(C:\Users\DIEGO\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\DIEGO\Documents\ExamenSegundoParcial\Problema3)
+2026.10.20 08:24:13 INFO  Attempting to connect to the build server...
+2026.10.20 08:24:13 INFO  Running BSP server List(C:\Users\DIEGO\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\DIEGO\Documents\ExamenSegundoParcial\Problema3\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\DIEGO\Documents\ExamenSegundoParcial\Problema3\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\DIEGO\Documents\ExamenSegundoParcial\Problema3\.scala-build\ide-envs.json, C:\Users\DIEGO\Documents\ExamenSegundoParcial\Problema3)
+2026.10.20 08:24:13 INFO  Tracing is disabled for protocol BSP. To enable tracing of incoming and outgoing JSON messages, create an empty file at C:\Users\DIEGO\Documents\ExamenSegundoParcial\Problema3\.metals\bsp.trace.json or C:\Users\DIEGO\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.10.20 08:24:13 INFO  no build target found for C:\Users\DIEGO\Documents\ExamenSegundoParcial\Problema3\main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:24:13 INFO  no build target found for C:\Users\DIEGO\Documents\ExamenSegundoParcial\Problema3\main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:24:13 INFO  no build target found for C:\Users\DIEGO\Documents\ExamenSegundoParcial\Problema3\main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:24:13 INFO  no build target found for C:\Users\DIEGO\Documents\ExamenSegundoParcial\Problema3\main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:24:13 WARN  Could not find semantic tokens for: file:///C:/Users/DIEGO/Documents/ExamenSegundoParcial/Problema3/main.scala
+2026.10.20 08:24:13 INFO  no build target found for C:\Users\DIEGO\Documents\ExamenSegundoParcial\Problema3\main.scala. Using presentation compiler with project's scala-library version: 3.3.8
+2026.10.20 08:24:14 INFO  time: Connected to build server in 0.93s
+2026.10.20 08:24:14 INFO  Connected to Build server: scala-cli v1.17.1
+2026.10.20 08:24:14 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:24:14 INFO  time: compiled Problema3_41e103cfb2 in 0.25s
+2026.10.20 08:24:17 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.10.20 08:24:19 INFO  time: indexed workspace in 4.82s
+2026.10.20 08:27:10 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:27:10 INFO  time: compiled Problema3_41e103cfb2 in 0.62s
+oct. 20, 2026 8:27:30 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 751
+2026.10.20 08:27:42 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:27:42 INFO  time: compiled Problema3_41e103cfb2 in 0.43s
+oct. 20, 2026 8:28:58 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1167
+2026.10.20 08:29:25 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:29:25 INFO  time: compiled Problema3_41e103cfb2 in 0.57s
+2026.10.20 08:29:45 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:29:45 INFO  time: compiled Problema3_41e103cfb2 in 0.24s
+2026.10.20 08:30:08 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:30:08 INFO  time: compiled Problema3_41e103cfb2 in 0.19s
+2026.10.20 08:37:45 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:37:45 INFO  time: compiled Problema3_41e103cfb2 in 71ms
+2026.10.20 08:37:47 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:37:47 INFO  time: compiled Problema3_41e103cfb2 in 0.61s
+2026.10.20 08:38:32 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:38:32 INFO  time: compiled Problema3_41e103cfb2 in 0.58s
+2026.10.20 08:38:38 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:38:38 INFO  time: compiled Problema3_41e103cfb2 in 0.45s
+2026.10.20 08:39:56 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:39:56 INFO  time: compiled Problema3_41e103cfb2 in 0.52s
+oct. 20, 2026 8:40:06 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 2162
+2026.10.20 08:40:12 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:40:12 INFO  time: compiled Problema3_41e103cfb2 in 0.43s
+2026.10.20 08:43:02 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:43:02 INFO  time: compiled Problema3_41e103cfb2 in 0.52s
+2026.10.20 08:43:41 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:43:41 INFO  time: compiled Problema3_41e103cfb2 in 0.6s
+2026.10.20 08:44:46 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:44:46 INFO  time: compiled Problema3_41e103cfb2 in 0.46s
+2026.10.20 08:45:19 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:45:19 INFO  time: compiled Problema3_41e103cfb2 in 0.26s
+2026.10.20 08:46:09 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:46:09 INFO  time: compiled Problema3_41e103cfb2 in 0.16s
+2026.10.20 08:46:31 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:46:31 INFO  time: compiled Problema3_41e103cfb2 in 0.28s
+oct. 20, 2026 8:46:39 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+oct. 20, 2026 8:46:40 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+oct. 20, 2026 8:46:40 A. M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMACIÓN: Unsupported notification method: $/setTrace
+2026.10.20 08:46:57 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:46:57 INFO  time: compiled Problema3_41e103cfb2 in 0.27s
+2026.10.20 08:47:41 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:47:41 INFO  time: compiled Problema3_41e103cfb2 in 0.29s
+2026.10.20 08:47:54 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:47:54 INFO  time: compiled Problema3_41e103cfb2 in 0.25s
+2026.10.20 08:48:08 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:48:08 INFO  time: compiled Problema3_41e103cfb2 in 0.25s
+oct. 20, 2026 8:49:10 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 4053
+2026.10.20 08:49:32 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:49:32 INFO  time: compiled Problema3_41e103cfb2 in 99ms
+2026.10.20 08:49:37 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:49:37 INFO  time: compiled Problema3_41e103cfb2 in 0.29s
+2026.10.20 08:49:49 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:49:49 INFO  time: compiled Problema3_41e103cfb2 in 0.29s
+oct. 20, 2026 8:53:37 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 4523
+oct. 20, 2026 8:53:41 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 4586
+2026.10.20 08:54:05 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:54:05 INFO  time: compiled Problema3_41e103cfb2 in 0.33s
+2026.10.20 08:54:39 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:54:39 INFO  time: compiled Problema3_41e103cfb2 in 0.29s
+2026.10.20 08:55:02 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:55:02 INFO  time: compiled Problema3_41e103cfb2 in 0.26s
+2026.10.20 08:55:37 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:55:37 INFO  time: compiled Problema3_41e103cfb2 in 0.24s
+oct. 20, 2026 8:56:56 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 5353
+2026.10.20 08:58:36 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:58:36 INFO  time: compiled Problema3_41e103cfb2 in 0.65s
+2026.10.20 08:58:53 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:58:53 INFO  time: compiled Problema3_41e103cfb2 in 0.52s
+2026.10.20 08:59:02 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 08:59:02 INFO  time: compiled Problema3_41e103cfb2 in 0.56s
+2026.10.20 09:00:36 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 09:00:36 INFO  time: compiled Problema3_41e103cfb2 in 0.57s
+2026.10.20 09:00:40 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 09:00:40 INFO  time: compiled Problema3_41e103cfb2 in 0.44s
+2026.10.20 09:00:43 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 09:00:43 INFO  time: compiled Problema3_41e103cfb2 in 0.53s
+oct. 20, 2026 9:00:44 A. M. org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 6027
+2026.10.20 09:01:52 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 09:01:52 INFO  time: compiled Problema3_41e103cfb2 in 0.47s
+2026.10.20 09:02:57 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 09:02:57 INFO  time: compiled Problema3_41e103cfb2 in 0.28s
+2026.10.20 09:03:32 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 09:03:32 INFO  time: compiled Problema3_41e103cfb2 in 0.26s
+2026.10.20 09:04:07 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 09:04:07 INFO  time: compiled Problema3_41e103cfb2 in 0.31s
+2026.10.20 09:04:56 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 09:04:56 INFO  time: compiled Problema3_41e103cfb2 in 0.35s
+2026.10.20 09:05:23 INFO  compiling problema3_41e103cfb2 (1 scala source)
+2026.10.20 09:05:23 INFO  time: compiled Problema3_41e103cfb2 in 0.26s
+2026.10.20 09:05:47 INFO  Shutting down server
+2026.10.20 09:05:47 INFO  Memory monitor stopped
+2026.10.20 09:05:47 INFO  shutting down Metals
+2026.10.20 09:05:47 INFO  Shut down connection with build server.
+2026.10.20 09:05:47 INFO  Exiting server
